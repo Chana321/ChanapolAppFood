@@ -47,7 +47,7 @@ jobs:
         tag_name: v${{ github.run_number }}
         name: Release v${{ github.run_number }}
         body: |
-          ## ChanapolApp Food 🍜
+          ## ChanapolAppFood
           
           **Developed by:** sutee-f, Chana321
           
