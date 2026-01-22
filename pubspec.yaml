@@ -1,7 +1,6 @@
 name: chanapolapp
-description: "A new Flutter project."
+description: "A Flutter food app developed by sutee-f and Chana321"
 publish_to: 'none'
-
 version: 1.0.0+1
 
 environment:
@@ -17,10 +16,8 @@ dependencies:
   flutter_map: ^8.2.2 
   latlong2: ^0.9.0
   url_launcher: ^6.2.5
-
   firebase_core: ^3.6.0
   cloud_firestore: ^5.4.4
-
 
 dev_dependencies:
   flutter_test:
@@ -30,7 +27,6 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
-
   assets:
     - assets/
     - assets/TomyumKung.mp4
